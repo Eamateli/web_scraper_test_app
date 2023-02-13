@@ -1,4 +1,4 @@
-# This is a high level overview. WARNIN it does not work as intended. Still working on it !
+# This is a high level overview. WARNING! it does not work as intended. Still working on it !
 
 
 Insert a url. and click scrape.
